@@ -1,0 +1,5 @@
+console.clear()
+console.log('\x1b[33m%s\x1b[0m', '\nStarting local plugin development server in 3 secs...')
+console.log('\x1b[33m%s\x1b[0m', 'Make sure the runner plugin is enabled.')
+console.log('\x1b[33m%s\x1b[0m', 'Hit CTRL + C to stop server.\n')
+setTimeout(_ => _, 3000)

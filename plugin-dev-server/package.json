@@ -1,0 +1,14 @@
+{
+  "name": "plugin-dev-server",
+  "version": "1.0.0",
+  "description": "BetterWRD Plugin local dev server",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i && node . && http-server -c-1 -p 9096"
+  },
+  "author": "david77",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
