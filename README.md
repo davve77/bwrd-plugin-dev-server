@@ -20,7 +20,7 @@
 5. Enable the plugin
 ### Downloading the repository
 1. Download it [here](https://github.com/davve77/bwrd-plugin-dev-server/archive/refs/heads/main.zip)
-2. Extract the zip to a folder
+2. Extract the archive
 3. Open `plugin-dev-server` folder in your code editor
 ### Starting the local server
 1. Open a terminal
