@@ -7,7 +7,7 @@
 
 ## Prerequisites
 - VSCode or any other code editor.
-- Node.js. [latest version here](https://nodejs.org/en/download/).
+- Node.js. Get the latest version [here](https://nodejs.org/en/download/).
 
 &nbsp;
 
