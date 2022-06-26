@@ -1,6 +1,6 @@
 # BetterWRD Plugin Dev Server
 
-#### Makes Plugin development easier just by using a local server.
+#### Makes plugin development easier just by using a local server.
 <img src="https://cdn.discordapp.com/attachments/800294579856605204/989842255575654501/unknown.png" width="1520"/>
 
 &nbsp;
