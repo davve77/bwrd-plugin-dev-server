@@ -16,6 +16,8 @@
     script.setAttribute('source', 'none')
     script.setAttribute('type', 'application/javascript')
 
+    if(window.LoadedPlugins) window.LoadedPlugins.push('Local Server Plugin')
+    
     script.src = 'http://127.0.0.1:9096/plugin.bwrd.js'
     document.head.appendChild(script)
 })()
