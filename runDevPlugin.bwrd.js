@@ -15,6 +15,7 @@
     script.setAttribute('version', '1.0.0')
     script.setAttribute('source', 'none')
     script.setAttribute('type', 'application/javascript')
+    script.setAttribute('crossorigin', 'anonymous')
 
     if(window.LoadedPlugins) window.LoadedPlugins.push('Local Server Plugin')
     
