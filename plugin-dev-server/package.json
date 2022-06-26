@@ -4,7 +4,7 @@
   "description": "BetterWRD Plugin local dev server",
   "main": "index.js",
   "scripts": {
-    "start": "npm i && node . && http-server -c-1 -p 9096"
+    "start": "npm i && node . && http-server --cors='*' -c-1 -p 9096"
   },
   "author": "david77",
   "license": "ISC",
